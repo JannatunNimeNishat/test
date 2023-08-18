@@ -1,0 +1,5 @@
+{{#user}
+Name: Md Jannatun Nime
+Skills: HTML, CSS, TailwindCSS, JS, ReactJS, NodeJS, Express.js, MongoDB, Redux (Basic) Next.js (Basic), Firebase(authentication), JWT
+Email: nishatnime100@gmail.com
+{{/user}}
